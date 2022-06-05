@@ -52,7 +52,7 @@
 <p align="center">
 <a href="https://nati2323.github.io/Final-Mobile-and-Desktop-Portfolio/"><img alt="Website" src="https://img.shields.io/badge/nati2323.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/natnael-amare-b5844510a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-natnael%20amare-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/natnael_med-blue?style=flat-square&logo=instagram"></a>
+<a href=""><img alt="Instagram" src="https://img.shields.io/badge/natnael_amare-blue?style=flat-square&logo=instagram"></a>
 <a href="nati2.man.3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/nati2.man.3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
